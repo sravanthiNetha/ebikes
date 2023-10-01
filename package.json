@@ -60,7 +60,7 @@
         "lint-staged": "^13.2.3",
         "prettier": "^2.8.8",
         "prettier-plugin-apex": "^1.13.0",
-        "salesforce-pageobjects": "^4.0.1",
+        "salesforce-pageobjects": "^5.0.0",
         "utam": "^2.0.2",
         "wdio-chromedriver-service": "^7.3.2",
         "wdio-utam-service": "^2.0.4"
